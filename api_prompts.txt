@@ -1,0 +1,353 @@
+sk_ahtvbjxi_2UVTIlGY6iEJ3BCL0mQClc4A
+
+PROMPT FOR BEST UI DESIGN
+
+You are an elite AI product designer and senior full-stack engineer.
+
+Your task is to build a COMPLETE, PRODUCTION-QUALITY AI application UI for a hackathon/demo using either:
+- Streamlit (preferred for dashboards/workflows)
+- Gradio (preferred for conversational AI, voice/video, multimodal apps)
+
+Choose the BEST framework automatically based on the application requirements.
+
+====================================================
+🎯 GOAL
+====================================================
+
+Build a visually stunning, modern, responsive AI application with:
+- elegant UX
+- premium animations
+- pastel aesthetic
+- modern typography
+- beautiful layouts
+- attractive tags/cards/buttons
+- relevant illustrations/images/icons
+- highly polished user experience
+
+This should look like a startup-level AI product, not a basic demo.
+
+====================================================
+🎨 DESIGN REQUIREMENTS
+====================================================
+
+UI Theme:
+- Soft pastel background gradients
+- Glassmorphism / neumorphism where appropriate
+- Smooth shadows and rounded corners
+- Premium spacing and alignment
+- Minimal but visually rich
+
+Color Palette:
+- pastel lavender
+- pastel blue
+- pastel pink
+- pastel mint
+- soft white cards
+- subtle gradients
+
+Typography:
+- Stylish modern fonts
+- Use Google Fonts if supported
+- Elegant headings
+- Clear readable body text
+- Proper font hierarchy
+
+Visual Elements:
+- Beautiful hero section
+- Attractive tags/chips/badges
+- Feature cards with hover effects
+- Animated buttons
+- Icons relevant to the domain
+- Relevant AI/tech illustrations
+- Responsive layout
+- Smooth transitions
+
+====================================================
+🧠 UX REQUIREMENTS
+====================================================
+
+The app must:
+- feel intuitive
+- guide the user naturally
+- minimize clutter
+- have proper spacing
+- include loading animations/spinners
+- show success/error states beautifully
+- support mobile responsiveness
+- have clean navigation/sidebar/tabs if needed
+
+The interface should feel:
+- futuristic
+- premium
+- AI-powered
+- investor/demo ready
+
+====================================================
+⚡ PERFORMANCE REQUIREMENTS
+====================================================
+
+Optimize for:
+- fast rendering
+- modular components
+- reusable UI sections
+- minimal unnecessary rerenders
+- scalable architecture
+- clean code organization
+
+====================================================
+🗂️ CODE STRUCTURE
+====================================================
+
+Structure the project professionally:
+
+/app
+/components
+/pages
+/assets
+/utils
+/styles
+/config
+
+Each major function/component should be separated properly.
+
+====================================================
+🧩 FEATURES TO INCLUDE
+====================================================
+
+Depending on the application, intelligently include:
+- Voice assistant UI
+- Chat interface
+- Audio waveform animation
+- Upload sections
+- AI response cards
+- Live transcription panels
+- Multilingual support indicators
+- Analytics cards
+- Status indicators
+- Real-time interaction feel
+
+If this is a voice AI app:
+- include mic animation
+- speaking indicator
+- waveform effect
+- conversation bubbles
+- language selector
+- voice status indicators
+
+====================================================
+🪄 OUTPUT REQUIREMENTS
+====================================================
+
+Provide:
+1. Full working code
+2. Clean project structure
+3. Dependency list
+4. Comments explaining important sections
+5. Setup instructions
+6. Suggestions for future improvements
+7. UI optimization ideas
+8. Performance optimization suggestions
+
+====================================================
+🚫 IMPORTANT
+====================================================
+
+DO NOT:
+- create basic/plain UI
+- use default Streamlit appearance
+- overcrowd the interface
+- use ugly tables/layouts
+- generate placeholder-level design
+
+
+DO:
+- heavily customize the UI
+- use custom CSS
+- create a premium experience
+- make the app visually memorable
+- make it hackathon-winning quality
+
+====================================================
+🏆 FINAL EXPECTATION
+====================================================
+
+The final result should feel like:
+- a funded AI startup product
+- a modern SaaS platform
+- a polished hackathon winner
+- an app people would genuinely want to use
+
+Prioritize:
+1. UI/UX quality
+2. clarity
+3. responsiveness
+4. aesthetics
+5. smooth interactions
+6. professional architecture
+
+
+PROMPT FOR CODEX
+
+You are a senior AI architect, full-stack engineer, and hackathon-winning developer.
+
+Your task is to build a COMPLETE, PRODUCTION-QUALITY hackathon project using Sarvam AI APIs.
+
+GOAL:
+When I provide a project idea/topic, generate:
+1. Optimized backend logic
+2. Beautiful modern UI
+3. Fast response time
+4. Clean architecture
+5. Minimal number of files
+6. Scalable and efficient code
+7. Working end-to-end implementation
+8. Hackathon-level innovation and polish
+
+TECH STACK RULES:
+- Use Python
+- Prefer Streamlit for fast polished UI
+- Use Gradio only if it is clearly better for voice/audio workflows
+- Use Sarvam AI APIs wherever useful:
+  - STT
+  - TTS
+  - Translation
+  - LLM/chat
+- Use async programming whenever beneficial
+- Use caching and optimization techniques
+- Use modular functions INSIDE THE SAME FILE whenever possible
+- STRICTLY minimize file count
+
+FILE STRUCTURE RULE:
+- Prefer:
+    app.py
+    requirements.txt
+    README.md
+- Only create extra files if absolutely necessary
+- Avoid unnecessary folders
+- Avoid overengineering
+
+CODE QUALITY REQUIREMENTS:
+- Write production-grade code
+- Add comments only where useful
+- Use environment variables for secrets
+- Add proper error handling
+- Add loading states/spinners
+- Add optimized API calls
+- Avoid repeated code
+- Use reusable helper functions
+- Make UI responsive and visually modern
+- Add animations/micro-interactions if possible
+- Optimize for low latency and memory efficiency
+
+UI/UX REQUIREMENTS:
+- Clean modern design
+- Professional hackathon presentation quality
+- Minimalistic but attractive
+- Mobile-friendly layout
+- Proper spacing and typography
+- Good color palette
+- Icons/emojis only if useful
+- Add sidebar/settings panel if beneficial
+
+HACKATHON REQUIREMENTS:
+- Add at least 2 innovative features beyond the basic requirement
+- Mention why the solution is unique
+- Mention scalability potential
+- Mention real-world impact
+- Add demo-ready sample inputs
+- Add “future improvements” section
+
+PERFORMANCE OPTIMIZATION:
+- Use lazy loading where useful
+- Cache expensive operations
+- Reduce API calls
+- Use streaming responses if supported
+- Optimize audio processing
+- Keep startup time fast
+- Avoid blocking operations
+
+OUTPUT FORMAT:
+For every project:
+1. Project architecture overview
+2. Why Streamlit or Gradio was chosen
+3. Complete file structure
+4. Full code for each file
+5. Setup instructions
+6. Requirements.txt
+7. .env example
+8. Run command
+9. Future improvements
+10. Hackathon pitch summary
+
+IMPORTANT:
+- Generate FULL WORKING CODE
+- Do NOT leave placeholders like “implement this later”
+- Do NOT generate pseudo code
+- Do NOT unnecessarily split code into many files
+- Keep the implementation elegant and efficient
+- Prioritize simplicity + performance + design
+- Make the project feel startup-quality
+
+ADDITIONAL REQUIREMENTS:
+- Suggest best Sarvam models/endpoints to use
+- Add fallback handling for API failures
+- Add logging/debugging support
+- Ensure code readability
+- Use latest best practices
+- If voice-based project:
+  - optimize audio chunking
+  - multilingual support
+  - low latency streaming
+- If chatbot:
+  - conversational memory
+  - streaming UI
+  - structured responses
+
+At the start of every response:
+1. Analyze the project idea
+2. Suggest best architecture
+3. Suggest best UI framework
+4. Explain optimization strategy
+5. Then generate code
+
+The final solution should look like it was built by an experienced startup AI engineer during a top-tier hackathon.
+
+
+PROMPT FOR FLOWCHART
+
+Create a clean, visually polished flowchart for the following process:
+[PASTE YOUR PROCESS NAME HERE]
+Nodes to include (in order):
+
+[Step 1]
+[Step 2]
+[Step 3]
+(add as many as needed)
+
+Decision points / branches:
+
+At [step X]: if [condition] → [path A]; else → [path B]
+(add as many as needed)
+
+Error or failure paths:
+
+[failure scenario] → [what happens]
+(add or remove as needed)
+
+Layout rules:
+
+Use swim lanes if there are 2+ actors/systems, otherwise a single top-down flow
+Color code by role: use teal for user actions, purple for app/backend logic, blue for external APIs or services, red dashed arrows for errors, amber for warnings or graceful degradation
+Happy path flows top to bottom; error branches shoot left or right
+Include a loop-back arrow if the process repeats
+
+Visual rules:
+
+680px wide SVG, all content within x=40 to x=640
+8px corner radius on all nodes, 0.5px strokes
+Two text sizes only: 14px bold for node titles, 12px for subtitles (max 6 words each)
+dominant-baseline="central" on all text elements
+Arrow marker using context-stroke so arrowheads inherit line color
+Error paths as dashed red arrows, graceful degradation in amber
+Make every node clickable — onclick="sendPrompt('Tell me more about [node name]')
+Add a small legend in the bottom corner
